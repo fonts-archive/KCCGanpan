@@ -33,7 +33,7 @@ font-face
 ```
 @font-face {
     font-family: 'KCC Ganpan';
-    font-weight: 400;
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCGanpan/KCC-Ganpan.otf') format('opentype'),

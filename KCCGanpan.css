@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'KCC Ganpan';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCGanpan/KCC-Ganpan.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCGanpan/KCC-Ganpan.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCGanpan/KCC-Ganpan.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCGanpan/KCC-Ganpan.woff2') format('woff2');
+}

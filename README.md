@@ -15,7 +15,7 @@ font-family: 'KCC Ganpan';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCGanpan/KCCGanpan.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCGanpan/KCCGanpan.css" type="text/css"/>
 ```
 
 &nbsp;
